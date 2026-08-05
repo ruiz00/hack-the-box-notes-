@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "19e85638de9c01ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "af2626470922bd2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61c31bbd6f8c0b64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB CPTS Path/3-EXPLOITATION AND LATERAL MOVEMENT/10. Password Attacks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Password Attacks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c460d57fa4ca2241",
+    "type": "split",
+    "children": [
+      {
+        "id": "0592aea46d5b6e41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5623d47500777a48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "09d9ab13bed2f709",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4612f6eddb2938c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4fa4cb00c9f2e22b",
+    "type": "split",
+    "children": [
+      {
+        "id": "af03fdc1fb2faa95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81e0e15dcbf492cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 2.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled 2"
+            }
+          },
+          {
+            "id": "c5dd1647e0d5c6eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HTB CPTS Path/2-RECONNAISSANCE,ENUMERATION AND ATTACK PLANNING/3. Network Enumeration with Nmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3. Network Enumeration with Nmap"
+            }
+          },
+          {
+            "id": "e30ac5d33f3ac400",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3aad5e1ffdc0d40c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HTB CPTS Path/2-RECONNAISSANCE,ENUMERATION AND ATTACK PLANNING/3. Network Enumeration with Nmap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3. Network Enumeration with Nmap"
+            }
+          },
+          {
+            "id": "901b36674809c225",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "HTB CPTS Path/2-RECONNAISSANCE,ENUMERATION AND ATTACK PLANNING/6. Vulnerability Assessment.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "61c31bbd6f8c0b64",
+  "lastOpenFiles": [
+    "Pasted image 20260804234313.png",
+    "Untitled 1.base",
+    "HTB CPTS Path/2-RECONNAISSANCE,ENUMERATION AND ATTACK PLANNING/5. Information Gathering - Web Edition.md",
+    "Untitled.base",
+    "HTB CPTS Path/2-RECONNAISSANCE,ENUMERATION AND ATTACK PLANNING/6. Vulnerability Assessment.md",
+    "HTB CPTS Path/3-EXPLOITATION AND LATERAL MOVEMENT/10. Password Attacks.md",
+    "Untitled.canvas",
+    "Untitled 2.base",
+    "Untitled 3.base",
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "Untitled 6.base",
+    "Untitled 7.base",
+    "Untitled 8.base",
+    "Untitled 9.base",
+    "HTB CPTS Path/2-RECONNAISSANCE,ENUMERATION AND ATTACK PLANNING/4. Footprinting.md",
+    "HTB CPTS Path/2-RECONNAISSANCE,ENUMERATION AND ATTACK PLANNING/3. Network Enumeration with Nmap.md",
+    "HTB CPTS Path/2-RECONNAISSANCE,ENUMERATION AND ATTACK PLANNING/9. Using the Metasploit Framework.md",
+    "HTB CPTS Path/2-RECONNAISSANCE,ENUMERATION AND ATTACK PLANNING/8. Shells & Payloads.md",
+    "HTB CPTS Path/2-RECONNAISSANCE,ENUMERATION AND ATTACK PLANNING/7. File Transfers.md",
+    "Pasted image 20260625224706.png",
+    "Pasted image 20260625220626.png",
+    "Pasted image 20260612224230.png",
+    "Pasted image 20260612224004.png",
+    "Pasted image 20260604172231.png",
+    "Pasted image 20260603000208.png",
+    "Pasted image 20260603000203.png",
+    "Pasted image 20260603000151.png",
+    "Pasted image 20260602235021.png",
+    "Pasted image 20260602142528.png",
+    "Words of Wisdom.md",
+    "HTB CPTS Path/1-INTRODUCTION/GETTING STARTED.md",
+    "HTB CPTS Path/1-INTRODUCTION/Penetration Testing Process.md",
+    "HTB CPTS Path/6-REPORTING AND CAPSTONE/28. Attacking Enterprise Networks.md",
+    "HTB CPTS Path/6-REPORTING AND CAPSTONE/27. Documentation & Reporting.md",
+    "HTB CPTS Path/5-POST-EXPLOITATION/26. Windows Privilege Escalation.md",
+    "HTB CPTS Path/5-POST-EXPLOITATION/25. Linux Privilege Escalation.md",
+    "HTB CPTS Path/4-WEB EXPLOITATION/24. Attacking Common Applications.md",
+    "HTB CPTS Path/4-WEB EXPLOITATION/23. Web Attacks.md",
+    "HTB CPTS Path/4-WEB EXPLOITATION/14. Using Web Proxies.md",
+    "HTB CPTS Path/4-WEB EXPLOITATION/22. Command Injections.md",
+    "HTB CPTS Path/4-WEB EXPLOITATION/21. File Uploads Attacks.md",
+    "HTB CPTS Path/4-WEB EXPLOITATION/20. File Inclusion.md",
+    "HTB CPTS Path/4-WEB EXPLOITATION/19. Cross Site Scritping (XSS).md",
+    "HTB CPTS Path/4-WEB EXPLOITATION/18. SQLMap Essentials.md",
+    "HTB CPTS Path/4-WEB EXPLOITATION/17. SQl injection Fundamentals.md",
+    "HTB CPTS Path/4-WEB EXPLOITATION/16. Login Brute Forcing.md"
+  ]
+}
