@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af2626470922bd2d",
+        "id": "f30852daf3c77cc0",
         "type": "tabs",
         "children": [
           {
-            "id": "61c31bbd6f8c0b64",
+            "id": "66774f7c583fc3c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,26 +185,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "61c31bbd6f8c0b64",
+  "active": "66774f7c583fc3c6",
   "lastOpenFiles": [
+    "Untitled.base",
+    "HTB CPTS Path/2-RECONNAISSANCE,ENUMERATION AND ATTACK PLANNING/9. Using the Metasploit Framework.md",
+    "HTB CPTS Path/3-EXPLOITATION AND LATERAL MOVEMENT/10. Password Attacks.md",
+    "Credential-Hunting-Windows.md",
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "HTB CPTS Path/1-INTRODUCTION/GETTING STARTED.md",
+    "Privilege-Escalation-Linux.md",
+    "Pasted image 20260807093930.png",
+    "Pasted image 20260807093422.png",
+    "Pasted image 20260807093409.png",
+    "TP Steps and configuration.md",
+    "Untitled 2.base",
     "Pasted image 20260804234313.png",
     "Untitled 1.base",
     "HTB CPTS Path/2-RECONNAISSANCE,ENUMERATION AND ATTACK PLANNING/5. Information Gathering - Web Edition.md",
-    "Untitled.base",
     "HTB CPTS Path/2-RECONNAISSANCE,ENUMERATION AND ATTACK PLANNING/6. Vulnerability Assessment.md",
-    "HTB CPTS Path/3-EXPLOITATION AND LATERAL MOVEMENT/10. Password Attacks.md",
     "Untitled.canvas",
-    "Untitled 2.base",
-    "Untitled 3.base",
-    "Untitled 5.base",
-    "Untitled 4.base",
     "Untitled 6.base",
     "Untitled 7.base",
     "Untitled 8.base",
     "Untitled 9.base",
     "HTB CPTS Path/2-RECONNAISSANCE,ENUMERATION AND ATTACK PLANNING/4. Footprinting.md",
     "HTB CPTS Path/2-RECONNAISSANCE,ENUMERATION AND ATTACK PLANNING/3. Network Enumeration with Nmap.md",
-    "HTB CPTS Path/2-RECONNAISSANCE,ENUMERATION AND ATTACK PLANNING/9. Using the Metasploit Framework.md",
     "HTB CPTS Path/2-RECONNAISSANCE,ENUMERATION AND ATTACK PLANNING/8. Shells & Payloads.md",
     "HTB CPTS Path/2-RECONNAISSANCE,ENUMERATION AND ATTACK PLANNING/7. File Transfers.md",
     "Pasted image 20260625224706.png",
@@ -213,12 +220,7 @@
     "Pasted image 20260612224004.png",
     "Pasted image 20260604172231.png",
     "Pasted image 20260603000208.png",
-    "Pasted image 20260603000203.png",
-    "Pasted image 20260603000151.png",
-    "Pasted image 20260602235021.png",
-    "Pasted image 20260602142528.png",
     "Words of Wisdom.md",
-    "HTB CPTS Path/1-INTRODUCTION/GETTING STARTED.md",
     "HTB CPTS Path/1-INTRODUCTION/Penetration Testing Process.md",
     "HTB CPTS Path/6-REPORTING AND CAPSTONE/28. Attacking Enterprise Networks.md",
     "HTB CPTS Path/6-REPORTING AND CAPSTONE/27. Documentation & Reporting.md",
@@ -230,9 +232,6 @@
     "HTB CPTS Path/4-WEB EXPLOITATION/22. Command Injections.md",
     "HTB CPTS Path/4-WEB EXPLOITATION/21. File Uploads Attacks.md",
     "HTB CPTS Path/4-WEB EXPLOITATION/20. File Inclusion.md",
-    "HTB CPTS Path/4-WEB EXPLOITATION/19. Cross Site Scritping (XSS).md",
-    "HTB CPTS Path/4-WEB EXPLOITATION/18. SQLMap Essentials.md",
-    "HTB CPTS Path/4-WEB EXPLOITATION/17. SQl injection Fundamentals.md",
-    "HTB CPTS Path/4-WEB EXPLOITATION/16. Login Brute Forcing.md"
+    "HTB CPTS Path/4-WEB EXPLOITATION/19. Cross Site Scritping (XSS).md"
   ]
 }
