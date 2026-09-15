@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB CPTS Path/3-EXPLOITATION AND LATERAL MOVEMENT/12. Pivoting ,Tunneling and Port Forwarding.md",
+                "file": "HTB CPTS Path/3-EXPLOITATION AND LATERAL MOVEMENT/13. Active Directory Enumeration & Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Pivoting ,Tunneling and Port Forwarding"
+              "title": "13. Active Directory Enumeration & Attacks"
             }
           }
         ]
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4fa4cb00c9f2e22b",
@@ -186,6 +187,7 @@
   },
   "active": "66774f7c583fc3c6",
   "lastOpenFiles": [
+    "HTB CPTS Path/3-EXPLOITATION AND LATERAL MOVEMENT/12. Pivoting ,Tunneling and Port Forwarding.md",
     "Pasted image 20260912111714.png",
     "Pasted image 20260911005539.png",
     "Pasted image 20260911004549.png",
@@ -208,7 +210,6 @@
     "HTB CPTS Path/1-INTRODUCTION/GETTING STARTED.md",
     "Privilege-Escalation-Linux.md",
     "Pasted image 20260807093930.png",
-    "Pasted image 20260807093422.png",
     "TP Steps and configuration.md",
     "Untitled 2.base",
     "Untitled 1.base",
